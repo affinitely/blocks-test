@@ -21,5 +21,8 @@
     "postcss": "^8.4.20",
     "react": "^18.2.0",
     "tailwindcss": "^3.2.4"
+  },
+  "dependencies": {
+    "core-js": "^3.26.1"
   }
 }
