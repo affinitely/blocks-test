@@ -23,6 +23,8 @@
     "tailwindcss": "^3.2.4"
   },
   "dependencies": {
+    "babel-plugin-postcss": "^1.1.0",
+    "babel-plugin-tailwind": "^0.1.10",
     "core-js": "^3.26.1"
   }
 }
